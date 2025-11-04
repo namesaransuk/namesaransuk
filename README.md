@@ -8,7 +8,6 @@ About me, I can design Web Design almost as a Full-Stack Developer with techniqu
 
 * 🌍  I'm based in Nakhon Pathom, Thailand
 * ✉️  You can contact me at [namesaransuk@gmail.com](mailto:namesaransuk@gmail.com)
-* 🚀  I'm currently working on [Organics Legendary Group Co.,Ltd](http://organicscosme.com)
 * 🧠  I'm learning Advance React
 * 🤝  I'm open to collaborating on Github & Gitlab
 
