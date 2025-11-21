@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saransuk Yimyong
 ========================================================================================================================================
 
-Web&Software Developer
+Web & Mobile Developer
 ----------------------
 
 About me, I can design Web Design almost as a Full-Stack Developer with techniques and experience in API and Line Messaging API mainly with Knowledge and adapt to new things just give me time to experiment and study.
