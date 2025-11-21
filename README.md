@@ -4,11 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web & Mobile Developer
 ----------------------
 
-About me, I can design Web Design almost as a Full-Stack Developer with techniques and experience in API and Line Messaging API mainly with Knowledge and adapt to new things just give me time to experiment and study.
+I have the skills to develop as both a full-stack developer and a mobile developer, with strong experience and techniques working with APIs and the Line Messaging API.
+
+Key Strengths: I can learn and adapt to new technologies quickly, requiring only the time to experiment and study. This ensures that I can always effectively apply my new knowledge and skills to my work.
 
 * 🌍  I'm based in Nakhon Pathom, Thailand
 * ✉️  You can contact me at [namesaransuk@gmail.com](mailto:namesaransuk@gmail.com)
-* 🧠  I'm learning Advance React
+* 🧠  I have the ability to always learn new things.
 * 🤝  I'm open to collaborating on Github & Gitlab
 
 ### Skills
