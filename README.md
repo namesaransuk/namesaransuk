@@ -6,7 +6,7 @@ Web & Mobile Developer
 
 I have the skills to develop as both a full-stack developer and a mobile developer, with strong experience and techniques working with APIs and the Line Messaging API.
 
-Key Strengths: I can learn and adapt to new technologies quickly, requiring only the time to experiment and study. This ensures that I can always effectively apply my new knowledge and skills to my work.
+I can learn and adapt to new technologies quickly, requiring only the time to experiment and study. This ensures that I can always effectively apply my new knowledge and skills to my work.
 
 * 🌍  I'm based in Nakhon Pathom, Thailand
 * ✉️  You can contact me at [namesaransuk@gmail.com](mailto:namesaransuk@gmail.com)
